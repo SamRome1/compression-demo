@@ -84,7 +84,7 @@ The app will be available at [http://localhost:5173](http://localhost:5173)
 
 ## Usage
 
-1. **Upload an Image**: Click or drag a ~3MB image into the upload zone
+1. **Upload an Image**: Click or drag a image into the upload zone
 2. **Watch Compression**: See the progress bar as the image is compressed
 3. **View Results**: See the impressive reduction percentage and side-by-side comparison
 4. **Upload to Supabase**: Click the upload button to store the compressed image
@@ -94,7 +94,7 @@ The app will be available at [http://localhost:5173](http://localhost:5173)
 
 For the best short-form video:
 
-1. **Prepare**: Use a high-quality ~3MB JPEG (landscape/portrait photo)
+1. **Prepare**: Use a high-quality JPEG (landscape/portrait photo)
 2. **Browser Setup**: Zoom to 110-125% for better visibility
 3. **Clear Screen**: Close unnecessary tabs and applications
 4. **Highlight**:
